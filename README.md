@@ -38,7 +38,7 @@ Báo cáo chuyên đề đánh giá và so sánh năng lực sáng tạo, lập 
 
 ## 🚀 Xem báo cáo
 
-👉 **[Xem trực tuyến tại đây](https://<username>.github.io/ai-model-comparison-report/)**
+👉 **[Xem trực tuyến tại đây](https://thanhnguyn.github.io/ai-model-comparison-report/)**
 
 ## 📁 Cấu trúc thư mục
 
